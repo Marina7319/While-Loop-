@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\06. MaxNumber.exe
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\06. MaxNumber.deps.json
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\06. MaxNumber.runtimeconfig.json
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\06. MaxNumber.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\06. MaxNumber.dll
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\ref\06. MaxNumber.dll
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\bin\Debug\net5.0\06. MaxNumber.pdb
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.dll
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\ref\06. MaxNumber.dll
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.pdb
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.genruntimeconfig.cache
+C:\Users\Marina\source\repos\While Loop - Lab\06. MaxNumber\obj\Debug\net5.0\06. MaxNumber.csproj.AssemblyReference.cache

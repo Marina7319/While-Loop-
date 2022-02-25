@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\01. ReadText.exe
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\01. ReadText.deps.json
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\01. ReadText.runtimeconfig.json
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\01. ReadText.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\01. ReadText.dll
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\ref\01. ReadText.dll
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\bin\Debug\net5.0\01. ReadText.pdb
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.dll
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\ref\01. ReadText.dll
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.pdb
+C:\Users\Marina\source\repos\While Loop - Lab\01. ReadText\obj\Debug\net5.0\01. ReadText.genruntimeconfig.cache
